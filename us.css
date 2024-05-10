@@ -1,0 +1,36 @@
+h1{
+
+text-transform: uppercase;
+text-align: center;
+
+
+}
+
+
+section{
+
+
+align-items: center;
+text-align: center;
+
+}
+
+label{
+
+
+    margin: 10px;
+}
+
+
+button{
+
+color: black; background-color: aqua;
+
+
+}
+
+
+a{
+background-color: aqua; color: black;
+
+}

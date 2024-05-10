@@ -1,0 +1,19 @@
+h1{
+text-transform: uppercase;
+text-align: center;
+text-shadow: 2px 3px 4px white;
+
+}
+
+h3{
+
+text-align: center;
+color: bisque;
+
+}
+body{
+
+background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+background-image: url(https://th.bing.com/th/id/OIP.71VhqQPhvUTuxOsSW76FUQHaEK?w=333&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+
+}

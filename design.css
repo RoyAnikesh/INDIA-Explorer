@@ -1,0 +1,24 @@
+header{
+text-transform: uppercase;
+text-align: center;
+align-items: center;
+text-shadow: 1px 1px 2px black;
+text-decoration: aqua;
+padding-top: 10px;
+color: aqua;
+
+
+}
+
+
+body{
+
+text-align: center;
+text-transform: uppercase;
+padding: 16px;
+
+
+}
+
+
+
